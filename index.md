@@ -1,4 +1,4 @@
-index
+Practice Website
 ================
 Kathy Stenehjem
 2023-02-07
