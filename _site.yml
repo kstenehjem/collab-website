@@ -1,9 +1,0 @@
-name: "our website"
-navbar: 
-  title: "Our collaborative Website"
-  left:
-    - text: "Cars"
-      href: index.html
-    - text: "About"
-      href: about.html
-output_dir: "."
