@@ -1,6 +1,6 @@
-name: "our website"
-navbar: 
-  title: "Our collaborative Website"
+name: "our-website"
+navbar:
+  title: "Our Collaborative Website"
   left:
     - text: "Cars"
       href: index.html
